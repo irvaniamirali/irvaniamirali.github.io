@@ -12,15 +12,15 @@ import { Kubernetes } from "@/components/ui/svgs/kubernetes";
 import { Astro } from "@/components/ui/svgs/astro";
 
 export const DATA = {
-  name: "Alex Mercer - Software Engineer",
-  initials: "AM",
-  url: "https://alexmercer.dev",
-  location: "Austin, TX",
-  locationLink: "https://www.google.com/maps/place/austin+tx",
+  name: "AmirAli Irvani - DevOps Engineer",
+  initials: "AI",
+  url: "https://irvaniamirali.github.io",
+  location: "Tehran, Iran",
+  locationLink: "https://www.google.com/maps/search/?api=1&query=Iran",
   description:
-    "Full-stack engineer turned indie founder. I love building developer tools, fast UIs, and products people actually use.",
+    "DevOps Engineer interested in system architecture, infrastructure automation, and building reliable systems.",
   summary:
-    "In early 2023, I left a senior engineering role to go all-in on building my own SaaS products. Before that, [I completed a double degree in computer science and business](/#education), [interned at companies like Stripe and Cloudflare](/#work), and [competed in 18+ hackathons](/#hackathons). I also spent a summer in San Francisco as part of a founder residency focused on shipping fast and finding early customers.",
+    "I'm a DevOps Engineer with hands-on experience in containerization, CI/CD pipelines, GitOps workflows, and infrastructure tooling. I've worked with a small DevOps team supporting larger companies, helping automate deployments, integrate services, and improve development workflows. I'm continuously learning, exploring system architecture, and building practical projects to deepen my understanding of reliable infrastructure.",
   avatarUrl: "/picofme.png",
   ogImage: "/og_image.png",
   sections: {
